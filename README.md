@@ -1,2 +1,7 @@
-# sttcipasung-web
-Repository untuk tugas Pemrograman Web STT Cipasung
+# STT Cipasung Web
+
+Repository ini dibuat untuk memenuhi tugas Pemrograman Web.
+
+## Anggota Kelompok
+
+1. Rofi Fauzan
